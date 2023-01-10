@@ -55,7 +55,7 @@
     color: white;
     font-family: var(--fonte-padrao);
     font-size: 1em;
-    margin-bottom: 50px;
+   padding-bottom: 50px;
     max-width: 500px;
     margin: auto;
    padding-right: 10px;
@@ -158,4 +158,7 @@ aside >ul{
       text-decoration: underline;
       color:var(--cor1) ;
    }
-  
+  main>article>p{
+   margin-top: 10px;
+   margin-bottom: 10px;
+  }
